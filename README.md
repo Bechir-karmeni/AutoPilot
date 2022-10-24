@@ -4,6 +4,13 @@
 # Team
 > Bechir Karmeni
 
+# Description
+> The goal of the project was to train a Deep Network to replicate the human steering behavior while driving, thus being able to drive autonomously on a simulator provided by Udacity. To this purpose, the network takes as input the frame of the frontal camera (say, a roof-mounted camera) and predicts the steering direction at each instant.
+
+Keywords: Deep Learning, Keras, Convolutional Neural Networks
+
+
+
 
 # Technologies
 > Python 
