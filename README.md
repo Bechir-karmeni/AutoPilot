@@ -15,11 +15,6 @@
 
 
 
-**********************************************************************************
 
-# Prototype:
-
-
-![prototype](https://github.com/Bechir-karmeni?tab=repositories/Exemple.gif)
 
 
